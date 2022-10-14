@@ -1,1 +1,1 @@
-Writing a C program  that prints followed by a new line
+C program that prints exatlty followed by a new line
