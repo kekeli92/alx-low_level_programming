@@ -1,1 +1,1 @@
-C program that prints exatlty followed by a new line
+6. Size is not grandeur, and territory does not make a nation
