@@ -1,12 +1,15 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
-
-
+/**
+ * main -printing all postive integers n.
+ *
+ * Return: Always 0 (succesful)
+ */
 int main(void)
 {
 	int n;
-	
+
 	srand(time(0));
 	n = rand() - RAND_MAX / 2;
 
