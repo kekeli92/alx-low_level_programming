@@ -1,1 +1,1 @@
-Program that prints the lowercase alphabet in reverse
+rogram that prints all the numbers of base 16 in lowercase
