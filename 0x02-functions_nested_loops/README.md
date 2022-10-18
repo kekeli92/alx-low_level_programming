@@ -1,1 +1,1 @@
-A program that prints _putchar
+This fucntion prints alphabet
