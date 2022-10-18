@@ -6,19 +6,19 @@
  */
 int main(void)
 {
-int x, y, z = 0;
+int num1, num2, num3;
 
-	for (x = 0; y < 9; z++)
+	for (num1 = 0; num1 < 9; num1++)
 	{
-		for (y = x + 1; y < 10; y++)
+		for (num2 = num1 + 1; num2 < 10; num2++)
 		{
-			for (z = y + 1; z < 10; z++)
+			for (num3 = num2 + 1; num3 < 10; num3++)
 			{
-				putchar((x % 10) + '0');
-				putchar((y % 10) + '0');
-				putchar((z % 10) + '0');
+				putchar((num1 % 10) + '0');
+				putchar((num2 % 10) + '0');
+				putchar((num3 % 10) + '0');
 
-				if (x == 7 && y == 8 && z == 9)
+				if (num1 == 7 && num2 == 8 && num3 == 9)
 					continue;
 				putchar(',');
 				putchar(' ');
