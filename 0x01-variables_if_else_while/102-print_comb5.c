@@ -1,31 +1,31 @@
 #include <stdio.h>
 /**
- * main - program that prints all possible combinations
+ * main - Entry point
  *
- Return: Always 0 (Success)
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
-int x, y, z = 0;
+int num1, num2;
 
-	for (x = 0; x < 99; x++)
+	for (num1 = 0; num1 < 99; num1++)
 	{
-		for (y = x + 1; y <= 99; y++)
+		for (num2 = num1 + 1; num2 <= 99; num2++)
 		{
-			putchar(x / 10 + '0');
-			putchar(x % 10 + '0');
-
+			putchar((num1 / 10) + '0');
+			putchar((num1 % 10) + '0');
 			putchar(' ');
+			putchar((num2 / 10) + '0');
+			putchar((num2 % 10) + '0');
 
-			putchar(y / 10 + '0');
-			putchar(y % 10 + '0');
-
-			if ((x == 98) & (y == 99))
+			if (num1 == 98 && num2 == 99)
 				break;
 			putchar(',');
 			putchar(' ');
 		}
 	}
+
 	putchar('\n');
+
 	return (0);
 }
