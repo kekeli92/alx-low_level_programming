@@ -1,1 +1,1 @@
-This function checks for lowercase character
+This function checks for lowercase charcter
