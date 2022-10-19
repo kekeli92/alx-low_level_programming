@@ -1,1 +1,1 @@
-This function checks for lowercase charcter
+This function prints the sign of a number
