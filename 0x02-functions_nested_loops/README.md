@@ -1,1 +1,1 @@
-program that finds and prints the sum of the even-valued terms
+This program prints the first 100 Fibonacci numbers
