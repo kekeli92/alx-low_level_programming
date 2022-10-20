@@ -1,1 +1,1 @@
-This function computes the absolute value of an integer
+This function prints the last digit of a number
