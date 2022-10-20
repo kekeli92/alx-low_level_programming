@@ -1,1 +1,1 @@
-This function prints of minutes of the day of Jsck Bauer
+function that prints the 9 times table, starting with 0.
