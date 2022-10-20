@@ -1,1 +1,1 @@
-This function prints the last digit of a number
+This function prints of minutes of the day of Jsck Bauer
