@@ -1,1 +1,1 @@
-Program that computes and prints the sum of all the multiples of 3 or 5 below 1024 (excluded), followed by a new line.
+In computer class, the first assignment was to write a program to print the first 100 Fibonacci numbers
