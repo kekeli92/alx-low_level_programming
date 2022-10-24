@@ -1,1 +1,1 @@
-This funtion returns the length of a string
+This function prints a string with a new line, to 
