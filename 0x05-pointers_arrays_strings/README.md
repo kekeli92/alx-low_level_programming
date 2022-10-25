@@ -1,1 +1,1 @@
-This function prints a string with a new line, to `stdout`. 
+`0x05. C` - Pointers, arrays and strings.
