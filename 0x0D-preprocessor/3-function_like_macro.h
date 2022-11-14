@@ -3,5 +3,4 @@
 
 #define ABS(x) ((x) < 0 ? (-(x)) : (x))
  
-/* _3_FUNCTION_LIKE_MACRO */
-#endif
+#endif /* _3_FUNCTION_LIKE_MACRO */
