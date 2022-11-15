@@ -1,5 +1,5 @@
-#ifndef MY_DOG_H
-#define MY_DOG_H
+#ifndef MY_DOG
+#define MY_DOG
 
 /**
  * init_dog - initialize a variable of type struct dog
