@@ -1,1 +1,1 @@
-Assign a random number to the variable n each time it is executed
+function that fills memory with a constant byte
