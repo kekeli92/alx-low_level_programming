@@ -1,9 +1,9 @@
 #include <stdio.h>
 #include <string.h>
 /**
- * _print_rev_recursion - kskskks
- * @s: sksksk
- * Return: skksksk
+ * _print_rev_recursion - function that prints a string in reverse
+ * @s: string
+ * Return: string
  */
 void _print_rev_recursion(char *s)
 {
